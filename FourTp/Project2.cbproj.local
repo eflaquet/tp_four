@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/28 09:35:11.000.765,=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2020/09/28 09:35:11.000.776,=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2020/11/30 09:44:33.000.899,=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2020/11/30 09:44:33.000.929,=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2020/11/30 09:47:57.000.246,C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Four\Unit1.cpp=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2020/11/30 09:47:57.000.246,C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Four\Unit1.dfm=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2020/11/30 09:47:57.000.246,C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Four\Unit1.h=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2020/11/30 09:48:06.000.681,C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Four\Project2PCH1.h=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2020/11/30 09:48:08.000.633,C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Four\Project2.cbproj=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+    <Transaction>2020/11/30 09:49:29.000.228,=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Four\four.cpp</Transaction>
+    <Transaction>2020/11/30 12:11:24.000.756,=C:\Users\Edouard\Documents\Embarcadero\Studio\Projets\Four\include\Dask.h</Transaction>
+    <Transaction>2020/12/02 16:07:28.377,=E:\Four\pdask_bc.lib</Transaction>
+  </Transactions>
+</BorlandProject>
